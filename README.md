@@ -3,9 +3,9 @@ This is IT Project Code Repository by student Yamin Thiri Wai(522k0046), Thant T
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-### 📁 [`datasets/`](datasets)
+### [`datasets/`](datasets)
 Contains all transactional datasets used in experiments.
 
 ➡️ Dataset details and statistics:  
@@ -13,7 +13,7 @@ Contains all transactional datasets used in experiments.
 
 ---
 
-### 📁 [`source/`](source)
+### [`source/`](source)
 Contains algorithm implementations, analysis, and evaluation notebooks.
 
 ➡️ Source code details:  
@@ -21,7 +21,7 @@ Contains algorithm implementations, analysis, and evaluation notebooks.
 
 ---
 
-## 🧪 Experimental Evaluation
+## Experimental Evaluation
 
 The algorithms are evaluated using:
 - Runtime performance
@@ -32,6 +32,6 @@ Experiments are conducted on multiple real-world benchmark datasets.
 
 ---
 
-## 📌 Academic Note
+## Academic Note
 This repository is intended for **research and educational purposes only**.  
 The original algorithm ideas belong to their respective authors.

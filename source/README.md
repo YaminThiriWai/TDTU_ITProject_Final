@@ -4,7 +4,7 @@ This folder contains **research-oriented implementations and experimental analys
 
 ---
 
-## 📘 Algorithm Implementations
+## Algorithm Implementations
 
 | Notebook | Description |
 |--------|-------------|
@@ -14,7 +14,7 @@ This folder contains **research-oriented implementations and experimental analys
 
 ---
 
-## 📊 Experimental Analysis
+## Experimental Analysis
 
 | Notebook | Description |
 |--------|-------------|
@@ -23,7 +23,7 @@ This folder contains **research-oriented implementations and experimental analys
 
 ---
 
-## 🧪 Evaluation Criteria
+## Evaluation Criteria
 - Execution time
 - Memory usage
 - Scalability on large datasets

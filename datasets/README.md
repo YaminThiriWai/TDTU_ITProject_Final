@@ -4,7 +4,7 @@ This folder contains **benchmark and real-world datasets** used for **research e
 
 ---
 
-## 📄 Dataset Files
+## Dataset Files
 
 | Dataset | File Name |
 |-------|-----------|
@@ -15,7 +15,7 @@ This folder contains **benchmark and real-world datasets** used for **research e
 
 ---
 
-## 📊 Dataset Characteristics
+## Dataset Characteristics
 
 | Dataset | |D| | |I| | Avg Len | Max Len | Density (%) | Type |
 |-------|----|----|---------|---------|-------------|------|
@@ -26,6 +26,6 @@ This folder contains **benchmark and real-world datasets** used for **research e
 
 ---
 
-## 📝 Notes
+## Notes
 - Datasets are used consistently across all algorithms
 - No modification of original data semantics
