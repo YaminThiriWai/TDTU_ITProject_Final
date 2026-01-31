@@ -54,6 +54,42 @@ Each discovered pattern X ∈ H is accompanied by:
 
 ---
 
+# 1. HUOPM (Baseline Algorithm)
+
+## Description:
+
+The original HUOPM algorithm for discovering High Utility Occupancy Patterns using support and utility occupancy constraints.
+
+## Flowchart:
+
+
+---
+
+# 2. HUOMIL Algorithm
+
+## Description:
+
+HUOMIL improves mining efficiency by introducing list-based data structures to reduce repeated database scans and accelerate utility occupancy computation.
+
+
+## Flowchart:
+
+---
+
+# 3. HUOPM-Improved Algorithm
+
+## Description:
+
+HUOPM-Improved further enhances performance by integrating tighter upper bounds and more aggressive pruning strategies.
+
+## Flowchart:
+
+
+
+
+
+---
+
 
 ## Repository Structure
 
