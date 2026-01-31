@@ -61,6 +61,7 @@ Each discovered pattern X ∈ H is accompanied by:
 The original HUOPM algorithm for discovering High Utility Occupancy Patterns using support and utility occupancy constraints.
 
 ## Flowchart:
+![HUOPM](images/flowcharts/huopm_flowchart.png)
 
 
 ---
@@ -73,6 +74,7 @@ HUOMIL improves mining efficiency by introducing list-based data structures to r
 
 
 ## Flowchart:
+![HUOPM](images/flowcharts/huomil.png)
 
 ---
 
@@ -84,6 +86,7 @@ HUOPM-Improved further enhances performance by integrating tighter upper bounds 
 
 ## Flowchart:
 
+![HUOPM](images/flowcharts/huopm_improved_flowchart.png)
 
 
 
